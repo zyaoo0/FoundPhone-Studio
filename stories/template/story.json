@@ -10,7 +10,7 @@
     "time": "11:48",
     "battery": 94,
     "network": "5G",
-    "wallpaper": "/FoundPhone-Studio/assets/壁纸.jpg",
+    "wallpaper": "/assets/壁纸.jpg",
     "passcode": "1129"
   },
   "installedApps": [
@@ -75,7 +75,7 @@
       "id": "laobie",
       "name": "老鳖",
       "phone": "",
-      "avatar": "/FoundPhone-Studio/assets/高超微信头像.png",
+      "avatar": "/assets/高超微信头像.png",
       "bio": ""
     }
   ],
@@ -95,7 +95,7 @@
           "body": "起来没",
           "time": "2026-02-03 11:48",
           "senderId": "laobie",
-          "avatar": "/FoundPhone-Studio/assets/高超微信头像.png"
+          "avatar": "/assets/高超微信头像.png"
         },
         {
           "id": "wechat-laobie-2",
@@ -103,7 +103,7 @@
           "body": "没有，我在梦里创排呢",
           "time": "2026-02-03 11:49",
           "senderId": "owner",
-          "avatar": "/FoundPhone-Studio/assets/高越微信头像.png"
+          "avatar": "/assets/高越微信头像.png"
         },
         {
           "id": "wechat-laobie-3",
@@ -111,7 +111,7 @@
           "body": "你先把现实的创排赶上再说",
           "time": "2026-02-03 11:50",
           "senderId": "laobie",
-          "avatar": "/FoundPhone-Studio/assets/高超微信头像.png"
+          "avatar": "/assets/高超微信头像.png"
         },
         {
           "id": "wechat-laobie-4",
@@ -119,7 +119,7 @@
           "body": "你能不能对你亲爱的弟弟温柔一点",
           "time": "2026-02-03 11:51",
           "senderId": "owner",
-          "avatar": "/FoundPhone-Studio/assets/高越微信头像.png"
+          "avatar": "/assets/高越微信头像.png"
         },
         {
           "id": "wechat-laobie-5",
@@ -127,7 +127,7 @@
           "body": "不能。下来吃饭。",
           "time": "2026-02-03 11:51",
           "senderId": "laobie",
-          "avatar": "/FoundPhone-Studio/assets/高超微信头像.png"
+          "avatar": "/assets/高超微信头像.png"
         },
         {
           "id": "wechat-laobie-6",
@@ -135,7 +135,7 @@
           "body": "吃啥",
           "time": "2026-02-03 11:52",
           "senderId": "owner",
-          "avatar": "/FoundPhone-Studio/assets/高越微信头像.png"
+          "avatar": "/assets/高越微信头像.png"
         },
         {
           "id": "wechat-laobie-7",
@@ -143,7 +143,7 @@
           "body": "你昨天说想吃的那个",
           "time": "2026-02-03 11:53",
           "senderId": "laobie",
-          "avatar": "/FoundPhone-Studio/assets/高超微信头像.png"
+          "avatar": "/assets/高超微信头像.png"
         },
         {
           "id": "wechat-laobie-8",
@@ -151,7 +151,7 @@
           "body": "高超你最好了！！！",
           "time": "2026-02-03 11:53",
           "senderId": "owner",
-          "avatar": "/FoundPhone-Studio/assets/高越微信头像.png"
+          "avatar": "/assets/高越微信头像.png"
         },
         {
           "id": "wechat-laobie-9",
@@ -159,7 +159,7 @@
           "body": "昨晚也是这么说的，吃完碗还是我洗",
           "time": "2026-02-03 11:54",
           "senderId": "laobie",
-          "avatar": "/FoundPhone-Studio/assets/高超微信头像.png"
+          "avatar": "/assets/高超微信头像.png"
         },
         {
           "id": "wechat-laobie-10",
@@ -167,7 +167,7 @@
           "body": "我好哥哥洗的碗干净",
           "time": "2026-02-03 11:55",
           "senderId": "owner",
-          "avatar": "/FoundPhone-Studio/assets/高越微信头像.png"
+          "avatar": "/assets/高越微信头像.png"
         },
         {
           "id": "wechat-laobie-11",
@@ -175,7 +175,7 @@
           "body": "高越。",
           "time": "2026-02-03 11:55",
           "senderId": "laobie",
-          "avatar": "/FoundPhone-Studio/assets/高超微信头像.png"
+          "avatar": "/assets/高超微信头像.png"
         },
         {
           "id": "wechat-laobie-12",
@@ -183,7 +183,7 @@
           "body": "到！！！！马上！！！！！",
           "time": "2026-02-03 11:55",
           "senderId": "owner",
-          "avatar": "/FoundPhone-Studio/assets/高越微信头像.png"
+          "avatar": "/assets/高越微信头像.png"
         },
         {
           "id": "wechat-laobie-13",
@@ -191,7 +191,7 @@
           "body": "你把黑色卫衣穿走了？",
           "time": "2026-02-03 12:17",
           "senderId": "laobie",
-          "avatar": "/FoundPhone-Studio/assets/高超微信头像.png"
+          "avatar": "/assets/高超微信头像.png"
         },
         {
           "id": "wechat-laobie-14",
@@ -199,7 +199,7 @@
           "body": "什么黑色卫衣",
           "time": "2026-02-03 12:18",
           "senderId": "owner",
-          "avatar": "/FoundPhone-Studio/assets/高越微信头像.png"
+          "avatar": "/assets/高越微信头像.png"
         },
         {
           "id": "wechat-laobie-15",
@@ -207,7 +207,7 @@
           "body": "我放在椅子上那件",
           "time": "2026-02-03 12:18",
           "senderId": "laobie",
-          "avatar": "/FoundPhone-Studio/assets/高超微信头像.png"
+          "avatar": "/assets/高超微信头像.png"
         },
         {
           "id": "wechat-laobie-16",
@@ -215,7 +215,7 @@
           "body": "哦 那个啊",
           "time": "2026-02-03 12:19",
           "senderId": "owner",
-          "avatar": "/FoundPhone-Studio/assets/高越微信头像.png"
+          "avatar": "/assets/高越微信头像.png"
         },
         {
           "id": "wechat-laobie-17",
@@ -223,7 +223,7 @@
           "body": "现在是我的了",
           "time": "2026-02-03 12:19",
           "senderId": "owner",
-          "avatar": "/FoundPhone-Studio/assets/高越微信头像.png"
+          "avatar": "/assets/高越微信头像.png"
         },
         {
           "id": "wechat-laobie-18",
@@ -231,7 +231,7 @@
           "body": "你衣柜里没衣服了？",
           "time": "2026-02-03 12:20",
           "senderId": "laobie",
-          "avatar": "/FoundPhone-Studio/assets/高超微信头像.png"
+          "avatar": "/assets/高超微信头像.png"
         },
         {
           "id": "wechat-laobie-19",
@@ -239,7 +239,7 @@
           "body": "有啊 但这件比较好穿",
           "time": "2026-02-03 12:20",
           "senderId": "owner",
-          "avatar": "/FoundPhone-Studio/assets/高越微信头像.png"
+          "avatar": "/assets/高越微信头像.png"
         },
         {
           "id": "wechat-laobie-20",
@@ -247,7 +247,7 @@
           "body": "洗了再穿，别跟你的脏衣服混一起",
           "time": "2026-02-03 12:21",
           "senderId": "laobie",
-          "avatar": "/FoundPhone-Studio/assets/高超微信头像.png"
+          "avatar": "/assets/高超微信头像.png"
         },
         {
           "id": "wechat-laobie-21",
@@ -255,7 +255,7 @@
           "body": "哦哦哦哦",
           "time": "2026-02-03 12:21",
           "senderId": "owner",
-          "avatar": "/FoundPhone-Studio/assets/高越微信头像.png"
+          "avatar": "/assets/高越微信头像.png"
         }
       ]
     }
