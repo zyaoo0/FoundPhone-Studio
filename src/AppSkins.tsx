@@ -350,7 +350,10 @@ export function WeChatSkin(p: SkinProps) {
                       }}
                     >
                       <span className="wx-chat-avatar">
-                        <Avatar name={t} src={last.avatar} />
+                        <Avatar
+                          name={t}
+                          src="/FoundPhone-Studio/assets/高超微信头像.png"
+                        />
                         {!readThreads.includes(t) &&
                           list.some((i) => !i.read) && (
                             <b className="wx-unread">
@@ -419,10 +422,13 @@ export function WeChatSkin(p: SkinProps) {
           ) : (
             <>
               <div className="wx-profile">
-                <Avatar name={p.owner || "机主"} />
+                <Avatar
+                  name="."
+                  src="/FoundPhone-Studio/assets/高越微信头像.png"
+                />
                 <div>
-                  <h2>{p.owner || "机主"}</h2>
-                  <small>微信号：未设置</small>
+                  <h2>.</h2>
+                  <small>微信号：zmxrxyyy1129</small>
                   <button
                     className="wx-profile-status"
                     onClick={() => setUtility("状态")}
