@@ -198,7 +198,7 @@ export function validateWork(input: unknown): Work {
 export function safeMedia(value: string) {
   // Permit bundled public assets as well as validated inline media.
   // Restrict local paths to /assets/ and reject traversal or URL schemes.
-  if (/^\/assets\/[\w\u0080-\uFFFF .()_-]+\.(png|jpe?g|webp|gif|svg)$/i.test(value) && !value.includes("..")) {
+  if (/^(?:\.\/)?assets\/[\w\u0080-\uFFFF .()_-]+\.(png|jpe?g|webp|gif|svg)$/i.test(value) && !value.includes("..")) {
     return value;
   }
   return /^data:(image\/(png|jpeg|webp|gif)|audio\/(mpeg|mp3|wav|ogg|webm|mp4)|video\/(mp4|webm));base64,[a-zA-Z0-9+/=\s]+$/.test(
