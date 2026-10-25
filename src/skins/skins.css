@@ -4130,3 +4130,5 @@
 .catalog-slot[hidden] {
   display: none;
 }
+
+.phone-screen.wallpaper-custom-image { background-repeat: no-repeat; background-size: cover; background-position: center; }
