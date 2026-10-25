@@ -751,6 +751,9 @@ svg {
     #b7bfa9
   );
 }
+.phone-screen.wallpaper-custom-image .wallpaper-orb {
+  display: none;
+}
 .wallpaper-orb {
   position: absolute;
   pointer-events: none;
@@ -3893,6 +3896,7 @@ label {
 }
 .wx-contact {
   font-size: 14px;
+  padding-left: 0;
 }
 .wx-discovery {
   display: flex;
